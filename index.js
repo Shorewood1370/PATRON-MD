@@ -635,7 +635,7 @@ NanoBotz.sendMessage(anu.id,
                 thumbnail: xnxx,
                 sourceUrl: '',
                 mediaType: 1,
-                renderLargerThumbnail: true
+                renderLargerThumbnail: false
            }
        }
    }
@@ -662,7 +662,7 @@ NanoBotz.sendMessage(anu.id,
                 thumbnail: pornhub,
                 sourceUrl: '',
                 mediaType: 1,
-                renderLargerThumbnail: true
+                renderLargerThumbnail: false
            }
        }
    }
